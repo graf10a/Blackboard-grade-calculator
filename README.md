@@ -1,5 +1,5 @@
 # Blackboard-grade-calculator
-Computing course percentages and grades with a Blackboard grade book file
+*Computing course percentages and grades with a Blackboard grade book file*
 
 The purpose of the Jupyter notebook included in this repository is to compute the current grades of the students listed in a gradebook file downloaded from Blackboard in the coma-separated format. The output is generated in the form of a new CSV file which is obtained by ammending the original gradebook file with Grades and Percentage columns.
 

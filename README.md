@@ -9,4 +9,4 @@ The repository contains the following files:
 
 1. 'Blackboard_grade_calculator.ipynb' -- the notebook file.
 2. 'README.md' -- this file.
-3. 'gradebook_file.csv' -- a sample of Blackboard gradebook file included for demonstration purposes. The file contains some fake students' grade data and it can be run smoothly with the notebook file.
+3. 'gradebook_file.csv' -- a sample of Blackboard gradebook file included for demonstration purposes. The file contains some fake grades data and it can be run smoothly with the notebook file.
